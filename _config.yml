@@ -1,3 +1,10 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+# Aktivera ett tema
+remote_theme: pages-themes/slate@v0.2.0
+
+# Lägg till din titel
+title: Min Dokumentation
+
+# Skapa meny-länkar
+header_pages:
+  - chilicon.md
+  - kyckling-broccoli.md
