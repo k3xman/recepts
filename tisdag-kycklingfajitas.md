@@ -1,4 +1,4 @@
-# Tisdag – Kycklingfajitas i tortillabröd
+# Kycklingfajitas i tortillabröd
 
 **Portioner:** 3  
 **Tid:** cirka 25 minuter
